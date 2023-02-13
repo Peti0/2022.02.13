@@ -1,0 +1,8 @@
+D:\KAR\4.feladat\4.feladat\bin\Debug\4.feladat.exe.config
+D:\KAR\4.feladat\4.feladat\bin\Debug\4.feladat.exe
+D:\KAR\4.feladat\4.feladat\bin\Debug\4.feladat.pdb
+D:\KAR\4.feladat\4.feladat\obj\Debug\4.feladat.csproj.AssemblyReference.cache
+D:\KAR\4.feladat\4.feladat\obj\Debug\4.feladat.csproj.SuggestedBindingRedirects.cache
+D:\KAR\4.feladat\4.feladat\obj\Debug\4.feladat.csproj.CoreCompileInputs.cache
+D:\KAR\4.feladat\4.feladat\obj\Debug\4.feladat.exe
+D:\KAR\4.feladat\4.feladat\obj\Debug\4.feladat.pdb

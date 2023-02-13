@@ -1,0 +1,8 @@
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\bin\Debug\Konzolos feladatok 1.exe.config
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\bin\Debug\Konzolos feladatok 1.exe
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\bin\Debug\Konzolos feladatok 1.pdb
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\obj\Debug\Konzolos feladatok 1.csproj.AssemblyReference.cache
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\obj\Debug\Konzolos feladatok 1.csproj.SuggestedBindingRedirects.cache
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\obj\Debug\Konzolos feladatok 1.csproj.CoreCompileInputs.cache
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\obj\Debug\Konzolos feladatok 1.exe
+D:\KAR\Konzolos feladatok 1\Konzolos feladatok 1\obj\Debug\Konzolos feladatok 1.pdb
